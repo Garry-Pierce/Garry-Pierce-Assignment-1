@@ -1,0 +1,14 @@
+﻿'Garry Pierce Assignment 1.exe' (Win32): Loaded 'D:\Level 4\Visual Studio\Garry Pierce Assignment 1\Garry Pierce Assignment 1\Debug\Garry Pierce Assignment 1.exe'. Symbols loaded.
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x407c has exited with code 0 (0x0).
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Garry Pierce Assignment 1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x5520 has exited with code 0 (0x0).
+The thread 0x390c has exited with code 0 (0x0).
+The program '[24064] Garry Pierce Assignment 1.exe' has exited with code 0 (0x0).
